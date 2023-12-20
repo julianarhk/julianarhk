@@ -2,7 +2,7 @@
 
 <h3>I'm a Software Developer Student and a Lawyer </h3> 
 
-### I Love to Learn About:
+### I am learning:
 
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
